@@ -22,21 +22,7 @@ I am a passionate QA Manual & Automation Engineer with 4 years of experience in 
 
 ---
 
-## Featured Projects
-
-### [Project Name 1]
-- **Description**: A brief overview of what this project does.
-- **Technologies Used**: Selenium, Java, JUnit
-- **Link**: [GitHub Repository Link](#)
-
-### [Project Name 2]
-- **Description**: A brief overview of this automation framework.
-- **Technologies Used**: Cypress, JavaScript
-- **Link**: [GitHub Repository Link](#)
-
-### [Project Name 3]
-- **Description**: Manual testing case repository for [Project/Software].
-- **Link**: [GitHub Repository Link](#)
+Coming soon!
 
 ---
 
