@@ -26,25 +26,4 @@ Coming soon!
 
 ---
 
-## Contributions
-
-- **[Open Source Project Name]**: Contributed to the development of [specific feature/bug fix]. [Link to Pull Request or Issue](#)
-- **[Another Open Source Contribution]**: Helped enhance documentation and improve user onboarding. [Link to Contribution](#)
-
----
-
-## Engagement
-
-- 🌟 **Follow me** to stay updated on my latest projects!
-- 💬 Feel free to reach out for collaboration or questions regarding testing methodologies.
-
----
-
-## Contact
-
-📧 Email: belalh.qa@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/belal-hossain-62a04a273/
-
----
-
 Thank you for visiting my GitHub profile! 🚀
